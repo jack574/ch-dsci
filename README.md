@@ -42,7 +42,7 @@ La API privada de baseball es de uso personal y no debe compartirse con otros si
 El proyecto está inspirado en la película "Moneyball" y busca brindar una comprensión más profunda de los números y el análisis de datos en el contexto del deporte.
 
 Contacto
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme en tu_email@example.com.
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme en daytrader130@gmail.com
 
 ¡Gracias por tu interés en este análisis de datos de baseball! Espero que encuentres este proyecto educativo y entretenido. ¡Disfruta explorando los datos y descubriendo nuevas perspectivas en el mundo del baseball!
 
